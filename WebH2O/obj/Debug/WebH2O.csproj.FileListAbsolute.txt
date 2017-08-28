@@ -1,0 +1,80 @@
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\csc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\vbc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\VBCSCompiler.exe
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\WebH2O.dll.config
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\WebH2O.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\WebH2O.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\obj\Debug\WebH2O.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\obj\Debug\WebH2O.dll
+c:\users\aluno\documents\visual studio 2015\Projects\WebH2O\WebH2O\obj\Debug\WebH2O.pdb
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\csc.exe
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\vbc.exe
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\VBCSCompiler.exe
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\WebH2O.dll.config
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\WebH2O.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\WebH2O.pdb
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\obj\Debug\WebH2O.csprojResolveAssemblyReference.cache
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\obj\Debug\WebH2O.dll
+C:\Users\gui_t\Documents\EP - Site Gui\site\Site-H2O\WebH2O\obj\Debug\WebH2O.pdb
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\csc.exe
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\vbc.exe
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\VBCSCompiler.exe
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\WebH2O.dll.config
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\WebH2O.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\WebH2O.pdb
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\obj\Debug\WebH2O.csprojResolveAssemblyReference.cache
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\obj\Debug\WebH2O.dll
+C:\Users\gui_t\Documents\Site-H2O\WebH2O\obj\Debug\WebH2O.pdb
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\csc.exe
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\vbc.exe
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\VBCSCompiler.exe
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\WebH2O.dll.config
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\WebH2O.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\WebH2O.pdb
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\obj\Debug\WebH2O.csprojResolveAssemblyReference.cache
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\obj\Debug\WebH2O.dll
+C:\Users\gui_t\Documents\EP - Site Gui\Site-H2O\WebH2O\obj\Debug\WebH2O.pdb
